@@ -6,7 +6,9 @@
 //
 
 import XCTest
-@testable import iOS_Test8_SwiftUI
+//@testable import iOS_Test8_SwiftUI
+@testable import Github_iOS_Test8_SwiftUI
+
 
 class iOS_Test8_SwiftUITests: XCTestCase {
 
