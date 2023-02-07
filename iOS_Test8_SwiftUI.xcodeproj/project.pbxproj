@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		821230DF277EC81400C27916 /* iOS_Test8_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_Test8_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		821230DF277EC81400C27916 /* Github_iOS_Test8_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Github_iOS_Test8_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		821230E2277EC81400C27916 /* iOS_Test8_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Test8_SwiftUIApp.swift; sourceTree = "<group>"; };
 		821230E4277EC81400C27916 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		821230E6277EC81500C27916 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 		821230E0277EC81400C27916 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				821230DF277EC81400C27916 /* iOS_Test8_SwiftUI.app */,
+				821230DF277EC81400C27916 /* Github_iOS_Test8_SwiftUI.app */,
 				821230EF277EC81500C27916 /* iOS_Test8_SwiftUITests.xctest */,
 				821230F9277EC81500C27916 /* iOS_Test8_SwiftUIUITests.xctest */,
 			);
@@ -144,7 +144,7 @@
 			);
 			name = iOS_Test8_SwiftUI;
 			productName = iOS_Test8_SwiftUI;
-			productReference = 821230DF277EC81400C27916 /* iOS_Test8_SwiftUI.app */;
+			productReference = 821230DF277EC81400C27916 /* Github_iOS_Test8_SwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 		821230EE277EC81500C27916 /* iOS_Test8_SwiftUITests */ = {
@@ -434,7 +434,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dmg.orion.tests.Github-iOS-Test8-SwiftUI";
-				PRODUCT_NAME = iOS_Test8_SwiftUI;
+				PRODUCT_NAME = Github_iOS_Test8_SwiftUI;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -464,7 +464,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dmg.orion.tests.Github-iOS-Test8-SwiftUI";
-				PRODUCT_NAME = iOS_Test8_SwiftUI;
+				PRODUCT_NAME = Github_iOS_Test8_SwiftUI;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
